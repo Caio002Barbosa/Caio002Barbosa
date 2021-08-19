@@ -1,4 +1,4 @@
-## Hy! I'm Caio 
+## Hey! I'm Caio 
 <div>
   <a href="https://github.com/Caio002Barbosa">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Caio002Barbosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
