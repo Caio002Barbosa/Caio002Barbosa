@@ -4,6 +4,11 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Caio002Barbosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio002Barbosa&layout=compact&langs_count=7&theme=tokyonight&count_private=true"/>
 </div>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Caio002Barbosa&theme=dark)](https://git.io/streak-stats)
+| 📊 Github Stats | 📊 Current Streak  |
+| --- | --- |
+| !Sachin's GitHub stats | [![GitHub Streak](https://streak-stats.demolab.com?user=Caio002Barbosa&theme=dark)](https://git.io/streak-stats) |
   
   ##
   
