@@ -3,7 +3,7 @@
   <a href="https://github.com/Caio002Barbosa">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Caio002Barbosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio002Barbosa&layout=compact&langs_count=7&theme=tokyonight&count_private=true"/>
- <img height="160em" src="https://streak-stats.demolab.com?user=Caio002Barbosa&theme=dark)"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Caio002Barbosa&theme=nightowl&hide_border=true&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" /></a>
 </div>
 
 
